@@ -1,0 +1,6 @@
+- HTML
+- CSS
+- JavaScript
+- React.js
+- chakra-ui
+- localStorage API
